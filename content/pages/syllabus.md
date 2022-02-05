@@ -65,12 +65,57 @@ Communication-intensive (CI) subjects in HASS ![](/images/educator/icon-question
 Evaluation / Grading
 --------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and participation, and short homework and in-class writing exercises | 15% |
-| Current event analysis oral presentation and write-up (2–3 pages) | 10% |
-| Short write-up on WGS event / program (film, lecture, reading) | 5% |
-| Three major writing assignments | 70% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and participation, and short homework and in-class writing exercises
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Current event analysis oral presentation and write-up (2–3 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short write-up on WGS event / program (film, lecture, reading)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three major writing assignments
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Attendance / Participation / Homework Assignments / Classroom Community
 -----------------------------------------------------------------------
