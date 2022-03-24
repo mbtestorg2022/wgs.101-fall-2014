@@ -398,7 +398,7 @@ Wilchins, Riki. "17 Things You DON'T Say to a Transsexual." In _Read My Lips: Se
 
 ———. "What Does it Cost to Tell the Truth?" In _Read My Lips: Sexual Subversion and the End of Gender_. Riverdale Avenue Books, 2013. ISBN: 9781936833641.
 
-Franke, Katherine. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Legal Aspects of Sex Reassignment Surgery," (PDF)](http://www2.law.columbia.edu/faculty_franke/Gubbio%20Recent.pdf) Columbia University School of Law.
+Franke, Katherine. ["Legal Aspects of Sex Reassignment Surgery," (PDF)](http://www2.law.columbia.edu/faculty_franke/Gubbio%20Recent.pdf) Columbia University School of Law.
 
 
 {{< tdclose >}}
@@ -484,7 +484,7 @@ Enloe, Cynthia. "The Globetrotting Sneaker." In _The Curious Feminist: Searching
 
 Pinsky, Robert. "[Shirt](http://www.ibiblio.org/ipa/poems/pinsky/shirt.php)," Internet Poetry Archive.
 
-Reagon, Bernice Johnson. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Are My Hands Clean?," (PDF)](http://collegeofsanmateo.edu/integrativelearning/learningcommunities/commons/James/AreMyHandsClean.pdf) College of San Mateo.
+Reagon, Bernice Johnson. ["Are My Hands Clean?," (PDF)](http://collegeofsanmateo.edu/integrativelearning/learningcommunities/commons/James/AreMyHandsClean.pdf) College of San Mateo.
 
 ### To Listen to the Bernice Johnson Reagon Composition
 

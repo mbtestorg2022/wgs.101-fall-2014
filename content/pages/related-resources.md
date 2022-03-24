@@ -103,7 +103,7 @@ Historical Parks, Museums, and Other Sites Related to the Women's Movement
 Other Resources
 ---------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2013 Network Responsibility Index (PDF - 5.0MB)](http://www.glaad.org/files/2013NRI.pdf), Gay and Lesbian Alliance Against Defamation (GLAAD)
+[2013 Network Responsibility Index (PDF - 5.0MB)](http://www.glaad.org/files/2013NRI.pdf), Gay and Lesbian Alliance Against Defamation (GLAAD)
 
 [Business and Professional Women's Foundation](http://bpwfoundation.org/)
 
@@ -125,7 +125,7 @@ Other Resources
 
 "[The Pill](https://www.pbs.org/wgbh/americanexperience/films/pill/)," American Experience, PBS
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Transgender Americans: A Handbook for Understanding, Human Rights Campaign (PDF - 3.1MB)](http://www.ithaca.edu/sacl/lgbt/docs/basicresources/understandingtrans.pdf)
+[Transgender Americans: A Handbook for Understanding, Human Rights Campaign (PDF - 3.1MB)](http://www.ithaca.edu/sacl/lgbt/docs/basicresources/understandingtrans.pdf)
 
 [U.S. Equal Employment Opportunity Commission](http://www.eeoc.gov/)
 
