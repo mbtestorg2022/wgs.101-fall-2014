@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 486f0753-5964-39ee-3770-420f14586cd1
 resourcetype: Image
 title: WGS-101J_stat-students.png
 uid: cf912e5b-36a2-747e-e415-40dd823917d2

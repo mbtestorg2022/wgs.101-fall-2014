@@ -4,6 +4,7 @@ description: 'This resource contains information related to the roots of contemp
   gender debates: the 19th century American women''s rights movement.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/a7a0c25526d5b855b1c72f2cb9b7ec07_MITWGS_101F14_Citations.pdf
 file_type: application/pdf
+parent_uid: b7af93a7-cfda-9224-0541-d3559584db59
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Citation Style for Essays'
 uid: a7a0c255-26d5-b855-b1c7-2f2cb9b7ec07

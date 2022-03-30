@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to gender, race and suffrage.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/2c6ec164ae9bb9fcc180ec951b668d41_MITWGS_101F14_Hwork5.pdf
 file_type: application/pdf
+parent_uid: b7af93a7-cfda-9224-0541-d3559584db59
 resourcetype: Document
 title: 'WGS.101 Introduction to Women''s and Gender Studies: Homework 5 Wells'
 uid: 2c6ec164-ae9b-b9fc-c180-ec951b668d41
